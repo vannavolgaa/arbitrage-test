@@ -400,3 +400,5 @@ FodyWeavers.xsd
 *.sln.iml
 
 venv
+upgradearbitrage2
+copy_arbitrage

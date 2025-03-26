@@ -1,4 +1,0 @@
-pip install wheel setuptools pip --upgrade
-pip uninstall -y arbitrage
-pip install git+ssh://git@github.com/marquesasarbitrage/arbitrage.git --no-cache-dir
-
