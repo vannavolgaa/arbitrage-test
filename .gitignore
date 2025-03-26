@@ -401,4 +401,4 @@ FodyWeavers.xsd
 
 venv
 upgradearbitrage2
-copy_arbitrage
+copy_arbitrage2.py
