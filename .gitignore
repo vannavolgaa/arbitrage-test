@@ -402,3 +402,8 @@ FodyWeavers.xsd
 venv
 upgradearbitrage2
 copy_arbitrage.py
+arbitrage.so
+test
+test.py
+dataset
+arbitrage.so
